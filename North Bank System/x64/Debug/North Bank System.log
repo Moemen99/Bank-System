@@ -1,0 +1,23 @@
+﻿  Admin.cpp
+  AdminManager.cpp
+  Client.cpp
+  ClientManager.cpp
+  DataSourceInterface.cpp
+  Employee.cpp
+  EmployeeManager.cpp
+  Encryption.cpp
+  FileManager.cpp
+  FilesHelper.cpp
+  North Bank System.cpp
+  Parser.cpp
+  Person.cpp
+  Screens.cpp
+  Validation.cpp
+  Generating Code...
+C:\Users\mano_\Desktop\c++ tasks\North Bank System\North Bank System\Screens.h(46): warning C4715: 'Screens::loginAs': not all control paths return a value
+C:\Users\mano_\Desktop\c++ tasks\North Bank System\North Bank System\EmployeeManager.h(217): warning C4715: 'EmployeeManager::employeeOptions': not all control paths return a value
+C:\Users\mano_\Desktop\c++ tasks\North Bank System\North Bank System\ClientManager.h(105): warning C4715: 'ClientManger::clientOptions': not all control paths return a value
+C:\Users\mano_\Desktop\c++ tasks\North Bank System\North Bank System\AdminManager.h(244): warning C4715: 'AdminManager::adminOptions': not all control paths return a value
+C:\Users\mano_\Desktop\c++ tasks\North Bank System\North Bank System\AdminManager.h(268): warning C4715: 'AdminManager::searchAdmin': not all control paths return a value
+C:\Users\mano_\Desktop\c++ tasks\North Bank System\North Bank System\Person.h(40): warning C4715: 'Person::setName': not all control paths return a value
+  North Bank System.vcxproj -> C:\Users\mano_\Desktop\c++ tasks\North Bank System\x64\Debug\North Bank System.exe
